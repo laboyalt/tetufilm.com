@@ -126,6 +126,10 @@ ul.projects li div {
 	justify-content: space-between;
 }
 
+.email a {
+	color: #0c074e;
+	text-decoration: none;
+}
 
 /* Modal box */
 
